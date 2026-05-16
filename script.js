@@ -371,7 +371,7 @@ document.addEventListener("DOMContentLoaded", () => {
             btn.innerHTML = 'Opening...';
 
             // 1. Open Youtube promotional link safely
-            window.open("https://shorturl.at/0Brs8", "_blank", "noopener,noreferrer");
+            window.open("https://shorturl.at/oypfJ", "_blank", "noopener,noreferrer");
 
             // 2. Open Download Gateway Modal
             if (downloadModal) {
